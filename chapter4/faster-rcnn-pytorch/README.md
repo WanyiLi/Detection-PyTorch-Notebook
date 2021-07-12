@@ -19,8 +19,8 @@ cd Detection-PyTorch-Notebook/faster-rcnn.pytorch
 ### 依赖
 
 * Python 2.7或者3.6
-* Pytorch 0.4.0
-* CUDA 8.0或者更高
+* Pytorch 1.9.0 (original is Pytorch 0.4.0)
+* CUDA 10.2或者更高( original is CUDA 8.0或者更高)
 
 ### 数据准备
 
